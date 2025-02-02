@@ -2,7 +2,7 @@
     max-width: 1600px;
     margin: 0 auto;
     /* I don't know if it was supposed to have everything centered without this so i just put it here, might get rid of it later */
-    /*text-align: center;*/
+    text-align: center;
 }
 nav a {
     text-align: center;
