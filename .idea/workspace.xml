@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0859163c-43e5-46b2-900b-0e7fe8ca3814" name="Changes" comment="Setting up WWR website" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="Thing/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/WebFundamentals" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WebFundamentals" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;qazwsxedcrfv64&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/qazwsxedcrfv64/WebFundamentals.git&quot;,
+    &quot;accountId&quot;: &quot;73fddc36-fbdb-40d6-acd9-f541b2c3fca3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rOqgOMUvi1iBlilY8ei65ZpIP2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "fixed",
+    "last_opened_file_path": "C:/Users/aweso/WebstormProjects/Web Fundamentals/Week 3/wwr/rafting",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\aweso\\AppData\\Local\\JetBrains\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\Week 3\wwr\rafting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals" />
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\site planing\wwr\images" />
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\wierd page\images" />
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\site planing\wwr\styles" />
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\site planing\wwr" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0859163c-43e5-46b2-900b-0e7fe8ca3814" name="Changes" comment="" />
+      <created>1736440580986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736440580986</updated>
+      <workItem from="1736440582117" duration="1556000" />
+      <workItem from="1736641678980" duration="2309000" />
+      <workItem from="1736839502687" duration="626000" />
+      <workItem from="1736870391890" duration="2406000" />
+      <workItem from="1736957397927" duration="48000" />
+      <workItem from="1737043505593" duration="3248000" />
+      <workItem from="1737264803762" duration="112000" />
+      <workItem from="1737265678885" duration="3200000" />
+      <workItem from="1737475810573" duration="1970000" />
+      <workItem from="1737562196827" duration="11000" />
+      <workItem from="1737870417092" duration="2043000" />
+      <workItem from="1737994125357" duration="6000" />
+      <workItem from="1738080569549" duration="797000" />
+      <workItem from="1738167634528" duration="593000" />
+      <workItem from="1738253348184" duration="1670000" />
+      <workItem from="1738435295097" duration="45000" />
+      <workItem from="1738467212790" duration="4516000" />
+      <workItem from="1738599480773" duration="5000" />
+      <workItem from="1738686318035" duration="939000" />
+      <workItem from="1738771887668" duration="197000" />
+      <workItem from="1738860259989" duration="1197000" />
+      <workItem from="1739063230808" duration="612000" />
+      <workItem from="1739079568475" duration="1561000" />
+      <workItem from="1739378758884" duration="8000" />
+      <workItem from="1739389373465" duration="1940000" />
+      <workItem from="1739470634193" duration="116000" />
+      <workItem from="1739670715592" duration="12373000" />
+    </task>
+    <task id="LOCAL-00001" summary="After First Website Made">
+      <option name="closed" value="true" />
+      <created>1736644275715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736644275715</updated>
+    </task>
+    <task id="LOCAL-00002" summary="After First Website Made">
+      <option name="closed" value="true" />
+      <created>1736871507872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736871507872</updated>
+    </task>
+    <task id="LOCAL-00003" summary="During Website Development">
+      <option name="closed" value="true" />
+      <created>1737268600461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737268600461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="After Week 2">
+      <option name="closed" value="true" />
+      <created>1737270750513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737270750513</updated>
+    </task>
+    <task id="LOCAL-00005" summary="trying to fix stuff">
+      <option name="closed" value="true" />
+      <created>1737476684913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737476684913</updated>
+    </task>
+    <task id="LOCAL-00006" summary="trying to fix stuff">
+      <option name="closed" value="true" />
+      <created>1737477112799</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737477112799</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Setting up WWR website">
+      <option name="closed" value="true" />
+      <created>1737872010576</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737872010576</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Setting up WWR website">
+      <option name="closed" value="true" />
+      <created>1737872371303</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737872371303</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="After First Website Made" />
+    <MESSAGE value="During Website Development" />
+    <MESSAGE value="After Week 2" />
+    <MESSAGE value="trying to fix stuff" />
+    <MESSAGE value="Setting up WWR website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting up WWR website" />
+  </component>
+</project>
