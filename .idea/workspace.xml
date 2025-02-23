@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0859163c-43e5-46b2-900b-0e7fe8ca3814" name="Changes" comment="Setting up WWR website">
-      <change afterPath="$PROJECT_DIR$/HomePage/images/camping.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/fire_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/mountains.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/oars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/rapids.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/river_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/rivers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/images/vecteezy_young-man-sleeping-on-sofa-at-home_29633456.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/site-plan-rafting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/styles/Other.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/styles/site-plan-rafting.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal/site-plan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal/styles/site-plan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/styles/other.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/site-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/site-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/styles/site-plan.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/styles/site-plan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site planing/wwr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site planing/wwr/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +23,8 @@
       <list>
         <option value="JavaScript File" />
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -108,11 +92,11 @@
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\Week 3\wwr\rafting" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\personal\images" />
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\personal" />
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals" />
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\site planing\wwr\images" />
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\wierd page\images" />
-      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\site planing\wwr\styles" />
-      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\site planing\wwr" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -161,7 +145,7 @@
       <workItem from="1740067412791" duration="978000" />
       <workItem from="1740068450303" duration="2736000" />
       <workItem from="1740274864810" duration="777000" />
-      <workItem from="1740278324129" duration="3554000" />
+      <workItem from="1740278324129" duration="6010000" />
     </task>
     <task id="LOCAL-00001" summary="After First Website Made">
       <option name="closed" value="true" />
