@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0859163c-43e5-46b2-900b-0e7fe8ca3814" name="Changes" comment="Setting up WWR website">
-      <change beforePath="$PROJECT_DIR$/personal/other.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/styles/ForFix.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal/site-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/site-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/styles/site-plan.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal/styles/site-plan.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
       <list>
         <option value="JavaScript File" />
         <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -140,7 +142,7 @@
       <workItem from="1740067412791" duration="978000" />
       <workItem from="1740068450303" duration="2736000" />
       <workItem from="1740274864810" duration="777000" />
-      <workItem from="1740278324129" duration="6157000" />
+      <workItem from="1740278324129" duration="6330000" />
     </task>
     <task id="LOCAL-00001" summary="After First Website Made">
       <option name="closed" value="true" />
