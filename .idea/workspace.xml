@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0859163c-43e5-46b2-900b-0e7fe8ca3814" name="Changes" comment="Setting up WWR website">
-      <change afterPath="$PROJECT_DIR$/beautified.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rafting/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rafting/styles/page2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal/site-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal/site-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/camping.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/camping.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/fire_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/fire_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/hero.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/hero.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/mountains.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/mountains.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/oars.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/oars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/rapids.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/rapids.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/river_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/river_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/rivers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/rivers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/images/vecteezy_young-man-sleeping-on-sofa-at-home_29633456.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/images/vecteezy_young-man-sleeping-on-sofa-at-home_29633456.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/site-plan-rafting.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/site-plan-rafting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/styles/Other.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/styles/Other.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/styles/site-plan-rafting.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/styles/site-plan-rafting.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomePage/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Rafting/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +164,9 @@
       <workItem from="1740414107696" duration="24000" />
       <workItem from="1740500012822" duration="2540000" />
       <workItem from="1740672483179" duration="1196000" />
-      <workItem from="1740888002420" duration="3588000" />
+      <workItem from="1740888002420" duration="3678000" />
+      <workItem from="1741143686146" duration="1580000" />
+      <workItem from="1741498892349" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="After First Website Made">
       <option name="closed" value="true" />
