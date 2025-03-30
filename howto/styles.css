@@ -1,0 +1,24 @@
+.topbar {
+    background-color: black;
+    overflow: hidden;
+}
+.topbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topbar a:hover {
+    background-color: white;
+    color: black;
+}
+.topbar a.active {
+    background-color: blue;
+    color: white;
+}
+.topbar .icon {
+    display: none;
+}
