@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0859163c-43e5-46b2-900b-0e7fe8ca3814" name="Changes" comment="Setting up WWR website">
-      <change afterPath="$PROJECT_DIR$/Rafting/contactus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rafting/styles/contactus.css" afterDir="false" />
+    <list default="true" id="0859163c-43e5-46b2-900b-0e7fe8ca3814" name="Changes" comment="howto">
+      <change afterPath="$PROJECT_DIR$/fixedmaybe/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixedmaybe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixedmaybe/other/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixedmaybe/othersub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixedmaybe/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixedmaybe/subpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/images/recipe book.png" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/images/recipe book.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/images/recipe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/images/recipe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/images/typing on phone.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/images/typing on phone.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/images/typing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/images/typing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/site-plan.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/other/site-plan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/styles/ForFix.css" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/styles/ForFix.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal/styles/site-plan.css" beforeDir="false" afterPath="$PROJECT_DIR$/fixedmaybe/styles/site-plan.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +29,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
-        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,11 +100,11 @@
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\Week 3\wwr\rafting" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\fixedmaybe\other" />
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\personal\images" />
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\HomePage\images" />
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals" />
       <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\personal" />
-      <recent name="C:\Users\aweso\WebstormProjects\Web Fundamentals\site planing\wwr\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -149,7 +161,12 @@
       <workItem from="1741143686146" duration="1580000" />
       <workItem from="1741498892349" duration="4129000" />
       <workItem from="1741706742037" duration="1955000" />
-      <workItem from="1742089812211" duration="3241000" />
+      <workItem from="1742089812211" duration="5153000" />
+      <workItem from="1742316059825" duration="65000" />
+      <workItem from="1743311235340" duration="583000" />
+      <workItem from="1743434090011" duration="79000" />
+      <workItem from="1743911041194" duration="1200000" />
+      <workItem from="1744317418254" duration="7125000" />
     </task>
     <task id="LOCAL-00001" summary="After First Website Made">
       <option name="closed" value="true" />
@@ -215,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737872371303</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="howto">
+      <option name="closed" value="true" />
+      <created>1743311800711</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743311800711</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +252,7 @@
     <MESSAGE value="After Week 2" />
     <MESSAGE value="trying to fix stuff" />
     <MESSAGE value="Setting up WWR website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up WWR website" />
+    <MESSAGE value="howto" />
+    <option name="LAST_COMMIT_MESSAGE" value="howto" />
   </component>
 </project>
